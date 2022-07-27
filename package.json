@@ -1,0 +1,17 @@
+{
+  "name": "parse-testing",
+  "version": "1.0.0",
+  "scripts": {
+    "generate-log": "node --log-function-events"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milky2028/parse-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milky2028/parse-testing/issues"
+  },
+  "homepage": "https://github.com/milky2028/parse-testing#readme"
+}
