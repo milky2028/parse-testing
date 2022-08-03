@@ -2,7 +2,7 @@
   "name": "parse-testing",
   "version": "1.0.0",
   "scripts": {
-    "generate-log": "node --log-function-events"
+    "generate-log": "node --log-function-events src/main.js"
   },
   "repository": {
     "type": "git",
@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/milky2028/parse-testing/issues"
   },
-  "homepage": "https://github.com/milky2028/parse-testing#readme"
+  "homepage": "https://github.com/milky2028/parse-testing#readme",
+  "dependencies": {
+    "@lokidb/loki": "^2.1.0"
+  }
 }
